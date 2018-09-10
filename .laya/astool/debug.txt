@@ -1,0 +1,19 @@
+1,0.00,,0,Project command:f:\study\tenWater/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:f:\study\tenWater/.actionScriptProperties.
+1,0.00,,0,output path:f:/study/tenWater/bin/h5/
+1,0.00,,0,Main Class:f:/study/tenWater/src/LayaUISample.as
+1,0.00,,0,output file:LayaUISample
+1,0.00,,0,compilerSourcePath f:/study/tenWater/libs/laya/src/
+
+1,0.00,,0,Compile Path:f:/study/tenWater/src/
+
+1,0.00,,0,Compile Path:f:/study/tenWater/libs/laya/src/
+
+1,0.00,f:/study/tenWater/src,0,Collect
+1,0.00,f:/study/tenWater/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+1,89.78,,0,Disable Flash3D f:/study/tenWater/src/LayaUISample.as
+12,89.78,f:/study/tenWater/bin/h5/LayaUISample.max.js,556089,
+11,89.78,f:/study/tenWater/bin/h5/LayaUISample.max.html,895,
+******************************************************************************
+14,89.78,,0,
